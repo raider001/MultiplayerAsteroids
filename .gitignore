@@ -19,5 +19,15 @@
 *.tar.gz
 *.rar
 
+#distribution
+dist_electron/
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+dist_electron/network.config
+*.exe
+*.blockmap
+dist_electron/win-unpacked/network.config
+dist_electron/
+dist_electron/**
+dist_electron/**/*
+*.pak
