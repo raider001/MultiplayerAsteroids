@@ -31,3 +31,4 @@ dist_electron/
 dist_electron/**
 dist_electron/**/*
 *.pak
+/node_modules/
